@@ -220,4 +220,3 @@ Button(root, text="Set Alarm", font=("Helvetica 15"), command=Threading).pack(pa
 
 # Execute Tkinter
 root.mainloop()
-print("GH TEST")
